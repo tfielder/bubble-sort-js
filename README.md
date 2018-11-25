@@ -1,11 +1,14 @@
 # bubble-sort-js
 
-#Author:
+# Author:
 Tim Fielder
-#Date:
+
+# Date:
 11.25.18
-#Version:
+
+# Version:
 1.1.1
-#Description:
+
+# Description:
 This project implements a bubble style sorting algorithm using JavaScript and Node.js to run the code.  It is also an exploration of Mocha/Chai for testing purposes.
 
