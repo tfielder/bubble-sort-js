@@ -1,6 +1,7 @@
 # bubble-sort-js
 
-## Tim Fielder
+## Author:
+Tim Fielder
 
 ## Date:
 11.25.18
